@@ -1,0 +1,15 @@
+{
+  "name": "Math",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "modeule": "math.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "babel": "./node_modules/.bin/babel src -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
